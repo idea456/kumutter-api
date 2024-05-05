@@ -4,6 +4,8 @@ go 1.18
 
 require (
 	github.com/golang/snappy v0.0.1 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+	github.com/hasura/go-graphql-client v0.12.1 // indirect
 	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/machinebox/graphql v0.2.2 // indirect
@@ -17,4 +19,5 @@ require (
 	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
+	nhooyr.io/websocket v1.8.11 // indirect
 )
